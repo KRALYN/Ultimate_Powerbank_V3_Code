@@ -1,1 +1,0 @@
-This is the first release version of the code, there are still many bugs. please check the Github link under video description for most current version. Thanks!
